@@ -2,3 +2,6 @@
 # Uzumaki
 ## 7th hokage
 ###### Hidden leaf village
+``` javascript
+var myVar = "Hello, world!";
+```
